@@ -1,0 +1,6 @@
+{
+  "name": "وازن",
+  "description": "منصة ذكية لإدارة المالية الشخصية ومتابعة الميزانيات والادخار وتحسين العادات المالية تهدف لمساعدتك على تحقيق الاستقرار المالي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
